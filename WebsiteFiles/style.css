@@ -1,7 +1,7 @@
 p {
 color: white;
 font-style: normal;
-font-family: Comic Sans MS,sans-serif;
+font-family: Comic,sans-serif;
 
 {
 
@@ -14,7 +14,8 @@ font-family: Comic Sans MS,sans-serif;
  }
 
  h1{
-   color: white;
+   color: orange;
+   font-family: Trattatelo, fantasy;
  }
  h2{color:white;}
 h3{color:white;}
