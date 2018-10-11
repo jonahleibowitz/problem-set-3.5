@@ -1,11 +1,7 @@
 p {
 color: white;
 font-style: normal;
-font-family: Comic,sans-serif;
-
-{
-
-}
+font-family: Comic, cursive, sans-serif;
 
 }
  body{
@@ -26,9 +22,15 @@ h3{color:white;}
    color: white;
  }
 
- ul{color:white;}
- ol{color:white;}
+ ul{
+   color:white;
+   font-family: Comic, cursive, sans-serif;
+ }
+ ol{
+   color:white;
+ font-family: Comic, cursive, sans-serif;}
 
  table{
    color: white;
+   border-color: orange;
  }
