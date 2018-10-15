@@ -2,12 +2,12 @@ p {
 color: white;
 font-style: normal;
 font-family: Comic, cursive, sans-serif;
-
-.paragraph{
-  background-position: center;
 }
 
+p.paragraph{
+  text-align: left;
 }
+
  body{
    background-color: black;
    color: white;
@@ -15,11 +15,21 @@ font-family: Comic, cursive, sans-serif;
 
  h1{
    color: orange;
-   font-family: Trattatelo, fantasy;
+   font-family: arial;
+  text-align: center;
  }
- h2{color:white;}
-h3{color:white;}
- h4{color:white;}
+
+ h2{
+   color:white;
+}
+
+h3{
+  color:white;
+}
+
+ h4{
+   color:white;
+ }
 
 
  footer{
