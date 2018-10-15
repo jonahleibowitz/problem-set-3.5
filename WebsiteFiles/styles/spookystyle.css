@@ -8,6 +8,8 @@ p.paragraph{
   text-align: left;
 }
 
+
+
  body{
    background-color: black;
    color: white;
@@ -20,7 +22,7 @@ p.paragraph{
  }
 
  h2{
-   color:white;
+   color: orange;
 }
 
 h3{
