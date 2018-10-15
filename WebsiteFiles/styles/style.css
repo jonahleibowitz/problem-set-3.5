@@ -3,6 +3,10 @@ color: white;
 font-style: normal;
 font-family: Comic, cursive, sans-serif;
 
+.paragraph{
+  background-position: center;
+}
+
 }
  body{
    background-color: black;
