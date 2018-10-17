@@ -62,6 +62,12 @@ img.center{
    background-image: linear-gradient(red, yellow;);
  }
 
+ #video{
+border-style: dashed;
+border-color: lawngreen;
+color: lawngreen;
+ }
+
  a.taskbar{
    color: orange;
    background-color: black;
@@ -71,3 +77,10 @@ img.center{
    background-color: orange;
    color:black;
  }
+ hover #video{
+   fill: rgb(153, 51, 153);
+ }
+
+h4.history{
+  color: rgb(153, 51, 153);
+}
