@@ -39,6 +39,7 @@ h3{
  ul{
    color:white;
    font-family: Comic, cursive, sans-serif;
+   background-color: rgb(153, 51, 153);
  }
  ol{
    color:white;
@@ -47,4 +48,26 @@ h3{
  table{
    color: white;
    border-color: orange;
+ }
+
+ a{
+
+ }
+
+img.center{
+  align-items: center;
+}
+
+ #gradient{
+   background-image: linear-gradient(red, yellow;);
+ }
+
+ a.taskbar{
+   color: orange;
+   background-color: black;
+ }
+
+ a:hover{
+   background-color: orange;
+   color:black;
  }
