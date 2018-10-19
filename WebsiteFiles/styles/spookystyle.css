@@ -15,7 +15,7 @@ p.paragraph{
 
  h1{
    color: orange;
-   font-family: arial;
+   font-family: Montserrat;
   text-align: center;
  }
 
@@ -51,6 +51,14 @@ h3{
    text-align: center;
    margin: 0 auto;
    background-color: orange;
+   border: 1px;
+ }
+
+ table.taskbar{
+   border-color: lime;
+   background-color: black
+   color: rgb(153, 51, 153);
+   border-style: groove;
  }
 
 img.decoration{
@@ -64,7 +72,7 @@ img.decoration{
 .center{
   display: block;
   margin: 0 auto;
-  
+
 }
 
  #gradient{
