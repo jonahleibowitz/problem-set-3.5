@@ -146,4 +146,7 @@ color: orange;
  font-family: comic, cursive, sans-serif;
 }
 
-
+div p{
+color: NavajoWhite;
+ font-family: FreeMono, monospace;
+}
