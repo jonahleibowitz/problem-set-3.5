@@ -79,7 +79,7 @@ img.decoration{
  }
 
 h4.history{
-  color: rgb(153, 51, 153);
+  color: DarkOrange);
 }
 
 /*ID selectors*/
@@ -150,3 +150,6 @@ div p{
 color: NavajoWhite;
  font-family: FreeMono, monospace;
 }
+
+/*Universal Selector*/
+*
