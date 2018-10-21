@@ -95,13 +95,18 @@ background-color:black;
 hover: rgb(153, 51, 153);
  }
 
-
- a:hover{
-   background-color: orange;
-   color:black;
- }
 #video:hover{
    background-color: rgb(153, 51, 153);
 
  }
+/*pseudo-classes*/
+a:hover{
+   background-color: orange;
+   color:black;
+ }
 
+a:visited{
+ color: OrangeRed;
+}
+
+table:first-of-type
