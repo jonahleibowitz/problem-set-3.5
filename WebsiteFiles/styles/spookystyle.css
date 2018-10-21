@@ -1,11 +1,8 @@
+/* Type Selectors*/
 p {
 color: white;
 font-style: normal;
 font-family: Comic, cursive, sans-serif;
-}
-
-p.paragraph{
-  text-align: left;
 }
 
  body{
@@ -54,6 +51,12 @@ h3{
    border: 1px;
  }
 
+/* Class Selectors*/
+
+p.paragraph{
+  text-align: left;
+}
+
  table.taskbar{
    border-color: lime;
    background-color: black
@@ -65,16 +68,21 @@ img.decoration{
   margin: 0 auto;
 }
 
- a{
-
- }
-
 .center{
   display: block;
   margin: 0 auto;
-
 }
 
+ a.taskbar{
+   color: orange;
+   background-color: black;
+ }
+
+h4.history{
+  color: rgb(153, 51, 153);
+}
+
+/*ID selectors*/
  #gradient{
    background-image: linear-gradient(red, yellow;);
  }
@@ -87,10 +95,6 @@ background-color:black;
 hover: rgb(153, 51, 153);
  }
 
- a.taskbar{
-   color: orange;
-   background-color: black;
- }
 
  a:hover{
    background-color: orange;
@@ -101,6 +105,3 @@ hover: rgb(153, 51, 153);
 
  }
 
-h4.history{
-  color: rgb(153, 51, 153);
-}
