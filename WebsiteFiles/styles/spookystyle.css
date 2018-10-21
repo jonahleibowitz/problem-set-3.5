@@ -84,7 +84,7 @@ h4.history{
 
 /*ID selectors*/
  #gradient{
-   background-image: linear-gradient(red, yellow;);
+   background-image: linear-gradient(orange, DarkGoldenrod);
  }
 
  #video{
@@ -109,4 +109,6 @@ a:visited{
  color: OrangeRed;
 }
 
-table:first-of-type
+li:nth-child(2n+1){
+background-color: DarkGoldenrod;
+}
