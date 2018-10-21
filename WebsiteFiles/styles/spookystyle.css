@@ -98,7 +98,8 @@ hover: rgb(153, 51, 153);
 #video:hover{
    background-color: rgb(153, 51, 153);
  /*picture dimensions*/
-#h100{
+ 
+ #h100{
 height: 100px;
 }
 
