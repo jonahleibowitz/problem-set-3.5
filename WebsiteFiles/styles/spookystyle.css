@@ -133,5 +133,17 @@ a:visited{
 
 li:nth-child(2n+1){
 background-color: DarkGoldenrod;
+ color: black;
 }
+
+/*combinators*/
+h4 + p{
+background-color: Indigo;
+}
+
+ol > li{
+color: orange;
+ font-family: comic, cursive, sans-serif;
+}
+
 
