@@ -14,6 +14,7 @@ font-family: Comic, cursive, sans-serif;
    color: orange;
    font-family: Luminari, fantasy;
   text-align: center;
+  font-weight: bold;
  }
 
  h2{
@@ -31,6 +32,7 @@ h3{
 
  footer{
    color: white;
+  font-size: 12px;
  }
 
  ul{
