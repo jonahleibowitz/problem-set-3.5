@@ -97,6 +97,19 @@ hover: rgb(153, 51, 153);
 
 #video:hover{
    background-color: rgb(153, 51, 153);
+ /*picture dimensions*/
+#h100{
+height: 100px;
+}
+
+ #h200{
+height: 200px;
+}
+
+#dectable{
+height: 100px;
+width: 125px;
+}
 
  }
 /*pseudo-classes*/
@@ -112,3 +125,4 @@ a:visited{
 li:nth-child(2n+1){
 background-color: DarkGoldenrod;
 }
+
