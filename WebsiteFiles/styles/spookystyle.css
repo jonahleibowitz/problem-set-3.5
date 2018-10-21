@@ -152,4 +152,6 @@ color: NavajoWhite;
 }
 
 /*Universal Selector*/
-*
+*.costume{
+float: right;
+}
