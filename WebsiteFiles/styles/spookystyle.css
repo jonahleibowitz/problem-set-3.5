@@ -99,9 +99,13 @@ hover: rgb(153, 51, 153);
    background-color: rgb(153, 51, 153);
  /*picture dimensions*/
  
- #h100{
+#h100{
 height: 100px;
 }
+ 
+ #h150{
+ height: 150px;
+ }
 
  #h200{
 height: 200px;
