@@ -1,1 +1,215 @@
+/* Type Selectors*/
+p {
+color: NavajoWhite;
+font-style: normal;
+font-family: "Courier New", Courier, monospace;
+}
+
+ body{
+   background-color: black;
+   color: white;
+ }
+
+ h1{
+   color: orange;
+   font-family: Luminari, fantasy;
+  text-align: center;
+  font-weight: bold;
+ }
+
+ h2{
+   color: orange;
+  border-bottom: red;
+}
+
+h3{
+  color:white;
+}
+
+ h4{
+   color:white;
+ }
+
+ footer{
+   color: white;
+  font-size: 12px;
+ }
+
+ ul{
+   color:white;
+   font-family: "Courier New", Courier, monospace;
+   background-color: rgb(153, 51, 153);
+ }
+
+ ol{
+   color:white;
+ font-family: "Courier New", Courier, monospace;
+}
+
+ table{
+   color: black;
+   border-color: rgb(153, 51, 153);
+   text-align: center;
+   margin: 0 auto;
+   background-color: orange;
+   border: 5px;
+ }
+
+/* Class Selectors*/
+
+p.paragraph{
+  text-align: left;
+}
+
+ table.taskbar{
+   border-color: lime;
+   background-color: black
+   color: orange;
+   border-style: groove;
+   overflow:
+ }
+
+img.decoration{
+  margin: 0 auto;
+}
+
+.center{
+  display: block;
+  margin: 0 auto;
+}
+
+ a#taskbar{
+   color: orange;
+   background-color: black;
+ }
+
+h4.history{
+  color: DarkOrange);
+}
+
+img.border{
+  border: 5px solid NavajoWhite
+  border-radius: 8px;
+}
+
+/*ID selectors*/
+ #gradient{
+   background-image: linear-gradient(orange, DarkGoldenrod);
+ }
+
+ #video{
+border-style: dashed;
+border-color: lawngreen;
+color: lawngreen;
+background-color:black;
+hover: rgb(153, 51, 153);
+ }
+
+#video:hover{
+   background-color: indigo;
+ /*picture dimensions*/
+
+#100{
+height: 100px;
+}
+
+#h100{
+  height: 100px
+}
+
+#h150{
+  height: 150px;
+  border-radius: 8px;
+}
+
+ .heightthree{
+height: 200px;
+}
+
+  #h300{
+height: 300px;
+}
+
+#dectable{
+height: 100px;
+width: 125px;
+}
+
+ }
+/*pseudo-classes*/
+a:hover{
+   background-color: black;
+   color:lime;
+ }
+
+ a#taskbar:hover{
+color:lime;
+ }
+
+a:visited{
+  background-color:black
+ color: orange;
+}
+
+li:nth-child(2n+1){
+background-color: DarkGoldenrod;
+ color: yellow;
+}
+
+/*combinators*/
+h4 + p{
+background-color: Indigo;
+}
+
+ol > li{
+color: orange;
+background-color: black;
+ font-family: "Courier New", Courier, monospace;
+}
+
+div p{
+color: NavajoWhite;
+ font-family: FreeMono, monospace;
+}
+
+/*Universal Selector*/
+*.costume{
+float: right;
+height:150px
+border: NavajoWhite dotted 10px;
+}
+
+
+img.height2{
+  height: 200px;
+  border: NavajoWhite solid 8px;
+}
+
+img#h300{
+  height: 300px;
+  border: lime outset 10px;
+  border-radius: 20px
+}
+
+img#h150{
+  height:150;
+}
+
+/*attribute selectors*/
+
+a[target="_blank"]{
+  font-style: oblique;
+}
+
+a[href="mailto:info@example.com"]{
+color:SpringGreen;
+}
+
+a[href^="http"]{
+  color: DeepPink;
+}
+
+img[href$=".gif"]{
+  margin-bottom: 30px;
+}
 
