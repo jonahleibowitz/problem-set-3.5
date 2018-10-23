@@ -119,11 +119,6 @@ height: 100px;
   height: 100px;
 }
 
-#h150{
-  height: 150px;
-  border-radius: 8px;
-}
-
  .heightthree{
 height: 200px;
 }
@@ -177,7 +172,7 @@ color: NavajoWhite;
 /*Universal Selector*/
 *.costume{
 float: right;
-height:150px
+height:150px;
 border: NavajoWhite dotted 10px;
 }
 
