@@ -115,7 +115,7 @@ hover: rgb(153, 51, 153);
 height: 100px;
 }
 
-#h100{
+.h100{
   height: 100px;
 }
 
@@ -127,7 +127,7 @@ height: 200px;
 height: 300px;
 }
 
-#dectable{
+.dectable{
 height: 100px;
 width: 125px;
 }
