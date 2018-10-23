@@ -3,6 +3,7 @@ p {
 color: NavajoWhite;
 font-style: normal;
 font-family: "Courier New", Courier, monospace;
+font-weight: normal;
 }
 
  body{
@@ -15,6 +16,7 @@ font-family: "Courier New", Courier, monospace;
    font-family: Luminari, fantasy;
   text-align: center;
   font-weight: bold;
+  text-decoration: inherit;
  }
 
  h2{
