@@ -149,7 +149,7 @@ a:visited{
 }
 
 li:nth-child(2n+1){
-background-color: DarkGoldenrod;
+background-color: linear-gradient(to right , DarkGoldenrod , black);
  color: yellow;
 }
 
