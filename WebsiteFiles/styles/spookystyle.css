@@ -40,7 +40,7 @@ h3{
  ul{
    color:white;
    font-family: "Courier New", Courier, monospace;
-   background-color: rgb(153, 51, 153);
+   background-color: linear-gradient(to right, rgb(153, 51, 153) , black);
  }
 
  ol{
