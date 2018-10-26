@@ -40,7 +40,7 @@ h3{
  ul{
    color:white;
    font-family: "Courier New", Courier, monospace;
-   background-color: linear-gradient(to right, rgb(153, 51, 153) , black);
+   background-color: rgb(153, 51, 153);
  }
 
  ol{
@@ -149,7 +149,7 @@ a:visited{
 }
 
 li:nth-child(2n+1){
-background-color: linear-gradient(to right , DarkGoldenrod , black);
+background-color:DarkGoldenrod;
  color: yellow;
 }
 
